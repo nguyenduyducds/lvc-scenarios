@@ -11,6 +11,24 @@
    "size": 7742
   },
   {
+   "id": "dich-video-dai-whisper-sensevoice-toi-3-tieng",
+   "file": "scenarios/dich-video-dai-whisper-sensevoice-toi-3-tieng.json",
+   "name": "Dịch Video Dài - Whisper + SenseVoice (tới 3 tiếng)",
+   "desc": "Dành cho video trên 30 phút, kể cả 3 tiếng: máy tự nghe lời thoại (tiếng Trung dùng SenseVoice, ngôn ngữ khác dùng Whisper) rồi Gemini dịch sang tiếng Việt. Không phải tải cả video lên Google nên chạy ổn và nhanh.",
+   "tag": "Dịch phụ đề",
+   "sha256": "fa9195ae2b66a574276374d0a1461bdde665d02d8cb4a75e86f88c706b3c149b",
+   "size": 1438
+  },
+  {
+   "id": "dich-video-ngan-gemini-xem-ca-video-duoi-30-phut",
+   "file": "scenarios/dich-video-ngan-gemini-xem-ca-video-duoi-30-phut.json",
+   "name": "Dịch Video Ngắn - Gemini Xem Cả Video (dưới 30 phút)",
+   "desc": "Dành cho video dưới 30 phút: tải cả video lên Google AI Studio để Gemini vừa xem vừa nghe rồi dịch thẳng sang tiếng Việt. Không cần chỉnh gì thêm. Cần extension LVC Studio đang kết nối.",
+   "tag": "Dịch phụ đề",
+   "sha256": "146c01d462f1c75564545f212e399cb24d09415a48330a8d1258f34c4cfae2ff",
+   "size": 1469
+  },
+  {
    "id": "ghep-2-video-tren-duoi-reaction-tiktok",
    "file": "scenarios/ghep-2-video-tren-duoi-reaction-tiktok.json",
    "name": "Ghép 2 Video Trên-Dưới (Reaction TikTok)",
@@ -92,5 +110,5 @@
    "size": 7275
   }
  ],
- "updated_at": "2026-10-29T03:14:32Z"
+ "updated_at": "2026-10-29T12:17:29Z"
 }
