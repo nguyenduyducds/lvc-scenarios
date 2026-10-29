@@ -1,0 +1,96 @@
+{
+ "schema": 1,
+ "items": [
+  {
+   "id": "dich-da-ngon-ngu-sang-tieng-anh-english-global-shorts",
+   "file": "scenarios/dich-da-ngon-ngu-sang-tieng-anh-english-global-shorts.json",
+   "name": "Dịch Đa Ngôn Ngữ - Sang Tiếng Anh (English Global Shorts)",
+   "desc": "Tự động dịch phụ đề & lồng tiếng sang Tiếng Anh (English) văn phong bản xứ tự nhiên để làm kênh ngoại / Global Shorts",
+   "tag": "Đa Ngôn Ngữ",
+   "sha256": "2fbb40280fe5a2acd22c896595cd21c906b26c14a06b6194a1466bf47a396d40",
+   "size": 7742
+  },
+  {
+   "id": "ghep-2-video-tren-duoi-reaction-tiktok",
+   "file": "scenarios/ghep-2-video-tren-duoi-reaction-tiktok.json",
+   "name": "Ghép 2 Video Trên-Dưới (Reaction TikTok)",
+   "desc": "Chia đôi màn hình 50/50 Trên-Dưới (9:16 TikTok/Reels) · Tiêu đề hộp trắng chữ đen ngay đường cắt giữa · Phụ đề Karaoke vàng nổi bật",
+   "tag": "Bố cục 2 Video",
+   "sha256": "d4b6543823dd20471019ee53f91cece58da98614dcfb18f7b6ea3b725953b5bd",
+   "size": 7341
+  },
+  {
+   "id": "hoat-hinh-anime-2d-3d-ruc-ro-9-16-shorts",
+   "file": "scenarios/hoat-hinh-anime-2d-3d-ruc-ro-9-16-shorts.json",
+   "name": "Hoạt Hình - Anime 2D/3D Rực Rỡ (9:16 Shorts)",
+   "desc": "Bộ lọc màu Rực rỡ (Vivid) + Tăng độ nét cho hoạt hình/anime · Giọng Cô Gái Năng Động 1.08x · Phụ đề Neon nổi bật",
+   "tag": "Anime / 3D",
+   "sha256": "9d1fedae814f613ed8d24c469ba7c2644fb3ec058bdaa05aa1a9d6f1575e216c",
+   "size": 7249
+  },
+  {
+   "id": "phim-tong-tai-ngon-tinh-do-thi-giong-nu-diu-dang",
+   "file": "scenarios/phim-tong-tai-ngon-tinh-do-thi-giong-nu-diu-dang.json",
+   "name": "Phim Tổng Tài - Ngôn Tình Đô Thị (Giọng Nữ Dịu Dàng)",
+   "desc": "Văn phong ngôn tình hiện đại tự nhiên (anh - em, tổng tài, phu nhân) · Giọng Chị Dịu Dàng · Bộ lọc màu Hàn Quốc K-Drama",
+   "tag": "Ngôn Tình",
+   "sha256": "a5309e083cc69df1964ff0df53b1d5eb699aa42f956329dd39fbbc779d39c93b",
+   "size": 7500
+  },
+  {
+   "id": "review-hai-huoc-bat-trend-genz-tiktok-soi-noi",
+   "file": "scenarios/review-hai-huoc-bat-trend-genz-tiktok-soi-noi.json",
+   "name": "Review Hài Hước - Bắt Trend GenZ (TikTok Sôi Nổi)",
+   "desc": "Dịch thoát ý hài hước, bắt trend mạng xã hội, cuốn hút từ 3 giây đầu · Giọng Chàng Trai Sôi Nổi 1.1x · Chữ nhảy Pop Up",
+   "tag": "Hài GenZ",
+   "sha256": "21333c27cdae035bf7c25c030ff5cd4a897ab82591156062a51f0b5ed16ddc45",
+   "size": 7491
+  },
+  {
+   "id": "review-phim-long-video-pip-tien-hiep-my-nhan-9-16",
+   "file": "scenarios/review-phim-long-video-pip-tien-hiep-my-nhan-9-16.json",
+   "name": "Review Phim Lồng Video PiP - Tiên Hiệp & Mỹ Nhân (9:16)",
+   "desc": "Khung dọc 9:16 che mờ trên dưới + Lồng video phụ PiP góc khung + Làm mờ phụ đề gốc & Lồng tiếng AI",
+   "tag": "Video Lồng PiP",
+   "sha256": "e2b8752f0fa5214db3d76ca25dab2f1c0a84eacb4c1bba71288299b908100ea5",
+   "size": 7243
+  },
+  {
+   "id": "review-phim-trung-quoc-xoa-sub-goc-long-tieng-ai",
+   "file": "scenarios/review-phim-trung-quoc-xoa-sub-goc-long-tieng-ai.json",
+   "name": "Review Phim Trung Quốc - Xoá Sub Gốc + Lồng Tiếng AI",
+   "desc": "Khung dọc 9:16 tràn viền · Tự động dò & làm mờ phụ đề tiếng Trung gốc · Dịch Gemini AI + Giọng Nữ Ngọt Ngào + Sub Karaoke Vàng",
+   "tag": "Phim Trung",
+   "sha256": "87f69268c9a6e3ad2587c57ce956240ac985bda827bd5a6362cf0d9980fe5ee5",
+   "size": 7256
+  },
+  {
+   "id": "review-phim-vien-mo-2-dai-chu-trang-tiktok-viral",
+   "file": "scenarios/review-phim-vien-mo-2-dai-chu-trang-tiktok-viral.json",
+   "name": "Review Phim Viền Mờ + 2 Dải Chữ Trắng (TikTok Viral)",
+   "desc": "Khung dọc 9:16 nền mờ Blur · 2 dải băng-rôn trắng chữ đen đậm kẹp trên & dưới khung phim · Phụ đề hộp đen mờ + Lồng tiếng AI",
+   "tag": "Review Phim Blur",
+   "sha256": "3ece49c8e5e2414e348dd17273d55e74775e4435a40be280dc0440179112d269",
+   "size": 7607
+  },
+  {
+   "id": "review-phim-youtube-ngang-16-9-full-hd-thuyet-minh",
+   "file": "scenarios/review-phim-youtube-ngang-16-9-full-hd-thuyet-minh.json",
+   "name": "Review Phim YouTube Ngang 16:9 (Full HD + Thuyết Minh)",
+   "desc": "Khung ngang 16:9 chuẩn YouTube Full HD 1080p · Giọng Người Kể Điềm Tĩnh · Phụ đề hộp đen mờ lịch sự · Giữ nhạc nền gốc 45%",
+   "tag": "YouTube 16:9",
+   "sha256": "dc39a304d7287b6618da8e3308ee068d58a27c1bca6892da9688b8c68fe86510",
+   "size": 7243
+  },
+  {
+   "id": "truyen-ngan-tien-hiep-co-trang-giong-nam-tram",
+   "file": "scenarios/truyen-ngan-tien-hiep-co-trang-giong-nam-tram.json",
+   "name": "Truyện Ngắn - Tiên Hiệp Cổ Trang (Giọng Nam Trầm)",
+   "desc": "Văn phong cổ trang / tiên hiệp / kiếm hiệp chuẩn Hán-Việt (ta - ngươi, bổn tôn, đạo hữu) · Giọng Nam Trầm Ấm · Màu Điện ảnh",
+   "tag": "Cổ Trang",
+   "sha256": "742e08cb01b4352cfbe7f8479641de9e7743537df49f194aac3216f538c2e321",
+   "size": 7275
+  }
+ ],
+ "updated_at": "2026-10-29T03:14:32Z"
+}
