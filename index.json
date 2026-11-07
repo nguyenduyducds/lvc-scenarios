@@ -11,6 +11,51 @@
    "size": 7742
   },
   {
+   "id": "dich-da-ngon-ngu-sang-tieng-bo-dao-nha-brazil-portuguese-brazil-shorts",
+   "file": "scenarios/dich-da-ngon-ngu-sang-tieng-bo-dao-nha-brazil-portuguese-brazil-shorts.json",
+   "name": "Dịch Đa Ngôn Ngữ - Sang Tiếng Bồ Đào Nha Brazil (Portuguese Brazil Shorts)",
+   "desc": "Tự động dịch phụ đề & lồng tiếng sang tiếng Bồ Đào Nha Brazil (Português do Brasil), văn phong bản xứ tự nhiên, khung dọc 9:16 cho Shorts.",
+   "tag": "Đa Ngôn Ngữ",
+   "sha256": "43a433210e53918784289286f552d2f1eae0bd14503331228c2e08a3f78af619",
+   "size": 8039
+  },
+  {
+   "id": "dich-da-ngon-ngu-sang-tieng-indonesia-indo-shorts",
+   "file": "scenarios/dich-da-ngon-ngu-sang-tieng-indonesia-indo-shorts.json",
+   "name": "Dịch Đa Ngôn Ngữ - Sang Tiếng Indonesia (Indo Shorts)",
+   "desc": "Tự động dịch phụ đề & lồng tiếng sang tiếng Indonesia (Bahasa Indonesia), văn phong bản xứ tự nhiên, khung dọc 9:16 cho Shorts.",
+   "tag": "Đa Ngôn Ngữ",
+   "sha256": "0796028202c8434c8a51cbd117032b6d01368a1693ee53db12dc5239701550d5",
+   "size": 7920
+  },
+  {
+   "id": "dich-da-ngon-ngu-sang-tieng-malaysia-bahasa-melayu-shorts",
+   "file": "scenarios/dich-da-ngon-ngu-sang-tieng-malaysia-bahasa-melayu-shorts.json",
+   "name": "Dịch Đa Ngôn Ngữ - Sang Tiếng Malaysia (Bahasa Melayu Shorts)",
+   "desc": "Tự động dịch phụ đề & lồng tiếng sang tiếng Malaysia (Bahasa Melayu), văn phong bản xứ tự nhiên, khung dọc 9:16 cho Shorts.",
+   "tag": "Đa Ngôn Ngữ",
+   "sha256": "62c1e05f16422eb92c9b5396c00ed82a12b02d9548d60805153a4310346144d4",
+   "size": 7935
+  },
+  {
+   "id": "dich-da-ngon-ngu-sang-tieng-tay-ban-nha-mexico-spanish-latam-shorts",
+   "file": "scenarios/dich-da-ngon-ngu-sang-tieng-tay-ban-nha-mexico-spanish-latam-shorts.json",
+   "name": "Dịch Đa Ngôn Ngữ - Sang Tiếng Tây Ban Nha Mexico (Spanish LatAm Shorts)",
+   "desc": "Tự động dịch phụ đề & lồng tiếng sang tiếng Tây Ban Nha Mexico (Español de México), văn phong bản xứ tự nhiên, khung dọc 9:16 cho Shorts.",
+   "tag": "Đa Ngôn Ngữ",
+   "sha256": "76ae96b3f5d92cbcbf5eaafc9e45dbe07278e2feb8bf7921d495997d4ca98c57",
+   "size": 8025
+  },
+  {
+   "id": "dich-da-ngon-ngu-sang-tieng-thai-lan-thai-shorts",
+   "file": "scenarios/dich-da-ngon-ngu-sang-tieng-thai-lan-thai-shorts.json",
+   "name": "Dịch Đa Ngôn Ngữ - Sang Tiếng Thái Lan (Thai Shorts)",
+   "desc": "Tự động dịch phụ đề & lồng tiếng sang tiếng Thái Lan (ภาษาไทย), văn phong bản xứ tự nhiên, khung dọc 9:16 cho Shorts.",
+   "tag": "Đa Ngôn Ngữ",
+   "sha256": "c6f4a56d1ff1642728958868bd0aacb865b70aff3bbcc7785b1d4256b37c51c8",
+   "size": 7947
+  },
+  {
    "id": "dich-video-dai-whisper-sensevoice-toi-3-tieng",
    "file": "scenarios/dich-video-dai-whisper-sensevoice-toi-3-tieng.json",
    "name": "Dịch Video Dài - Whisper + SenseVoice (tới 3 tiếng)",
@@ -110,5 +155,5 @@
    "size": 7275
   }
  ],
- "updated_at": "2026-10-29T12:17:29Z"
+ "updated_at": "2026-11-07T09:39:07Z"
 }
