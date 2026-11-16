@@ -74,6 +74,51 @@
    "size": 1469
   },
   {
+   "id": "edit-doc-sang-ngang-16-9-nen-mo-youtube",
+   "file": "scenarios/edit-doc-sang-ngang-16-9-nen-mo-youtube.json",
+   "name": "Edit Dọc Sang Ngang 16-9 - Nền Mờ (YouTube)",
+   "desc": "Chỉ chỉnh hình, KHÔNG dịch / lồng tiếng: đưa video dọc (quay điện thoại, TikTok) vào khung ngang 16:9, hai bên lấp bằng hình video làm mờ thay cho viền đen. Giữ tiếng gốc. Dùng cho YouTube, Facebook ngang.",
+   "tag": "Chỉnh sửa video",
+   "sha256": "a2c63135ff567bddf09dfecb93f16d3437eff164ec407e2d762f459253fe35d6",
+   "size": 7321
+  },
+  {
+   "id": "edit-lat-guong-zoom-tang-toc",
+   "file": "scenarios/edit-lat-guong-zoom-tang-toc.json",
+   "name": "Edit Lật Gương + Zoom + Tăng Tốc",
+   "desc": "Chỉ chỉnh hình, KHÔNG dịch / lồng tiếng: lật gương ngang, phóng to 108%, tăng tốc 1.05x, lọc màu trong trẻo, thêm mép mờ nhẹ + đổi MD5. Giữ nguyên khung gốc và tiếng gốc — hợp video ngắn.",
+   "tag": "Chỉnh sửa video",
+   "sha256": "e4f688894e9693c15b61c341f88f31d47e526e5e8ae223067db4b5acf56d1358",
+   "size": 7343
+  },
+  {
+   "id": "edit-mau-dien-anh-cinematic-tang-net",
+   "file": "scenarios/edit-mau-dien-anh-cinematic-tang-net.json",
+   "name": "Edit Màu Điện Ảnh - Cinematic + Tăng Nét",
+   "desc": "Chỉ chỉnh hình, KHÔNG dịch / lồng tiếng: lọc màu điện ảnh, tăng tương phản và độ nét, tối nhẹ 4 góc cho có chiều sâu. Giữ nguyên khung và tiếng gốc — làm đẹp video quay sẵn, vlog, cảnh quay sản phẩm.",
+   "tag": "Chỉnh sửa video",
+   "sha256": "ad7d2d21c30b73e51800a5907f556283946730d4d32a48951c0f3dbddfeb138d",
+   "size": 7367
+  },
+  {
+   "id": "edit-ngang-sang-doc-9-16-nen-mo-tiktok-shorts-reels",
+   "file": "scenarios/edit-ngang-sang-doc-9-16-nen-mo-tiktok-shorts-reels.json",
+   "name": "Edit Ngang Sang Dọc 9-16 - Nền Mờ (TikTok Shorts Reels)",
+   "desc": "Chỉ chỉnh hình, KHÔNG dịch / lồng tiếng: đưa video ngang vào khung dọc 9:16, phần trống phía trên và dưới lấp bằng chính hình video làm mờ. Giữ tiếng gốc. Dùng cho TikTok, YouTube Shorts, Facebook Reels.",
+   "tag": "Chỉnh sửa video",
+   "sha256": "e8b9acec9b64e69c37f99efeb155aeb473046d83d161c170da4d114c032ee33c",
+   "size": 7339
+  },
+  {
+   "id": "edit-tieu-de-2-dai-chu-tren-duoi-9-16-tiktok",
+   "file": "scenarios/edit-tieu-de-2-dai-chu-tren-duoi-9-16-tiktok.json",
+   "name": "Edit Tiêu Đề 2 Dải Chữ Trên Dưới (9-16 TikTok)",
+   "desc": "Chỉ chỉnh hình, KHÔNG dịch / lồng tiếng: khung dọc 9:16 nền mờ, dải trắng trên và dưới với 2 dòng tiêu đề chữ đậm. Mở kịch bản trong Studio, sửa 2 dòng chữ (nhóm Text) cho từng loạt video rồi lưu.",
+   "tag": "Chỉnh sửa video",
+   "sha256": "417697132b96637a0cdefb71c3a883ac77bb487079293dbb9dad4e4605167d68",
+   "size": 7280
+  },
+  {
    "id": "ghep-2-video-tren-duoi-reaction-tiktok",
    "file": "scenarios/ghep-2-video-tren-duoi-reaction-tiktok.json",
    "name": "Ghép 2 Video Trên-Dưới (Reaction TikTok)",
@@ -155,5 +200,5 @@
    "size": 7275
   }
  ],
- "updated_at": "2026-11-07T09:39:07Z"
+ "updated_at": "2026-11-16T15:27:24Z"
 }
